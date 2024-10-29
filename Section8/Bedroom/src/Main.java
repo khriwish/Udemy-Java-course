@@ -4,7 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-         Bedroom = new Bedroom();
+         Bedroom bedroom = new Bedroom();
+         bedroom.printTest();
 
 
     }

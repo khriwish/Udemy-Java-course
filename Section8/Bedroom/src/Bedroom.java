@@ -9,6 +9,7 @@ public class Bedroom {
             System.out.println("Hello from Bedroom");
         }
 
+
 }
 
 
