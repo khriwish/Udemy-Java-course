@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section 5/AreaCalculator/AreaCalculator.iml" filepath="$PROJECT_DIR$/Section 5/AreaCalculator/AreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/AreaCalculator/AreaCalculator2.iml" filepath="$PROJECT_DIR$/Section 7/AreaCalculator/AreaCalculator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/BankClassesChallenge/BankClassesChallenge.iml" filepath="$PROJECT_DIR$/Section 7/BankClassesChallenge/BankClassesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/CarpetCostCalculator/CarpetCostCalculator.iml" filepath="$PROJECT_DIR$/Section 7/CarpetCostCalculator/CarpetCostCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/ClassPart1/ClassPart1.iml" filepath="$PROJECT_DIR$/Section 7/ClassPart1/ClassPart1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/ClassPart1 (UPDATED)/ClassPart1 (UPDATED).iml" filepath="$PROJECT_DIR$/Section 7/ClassPart1 (UPDATED)/ClassPart1 (UPDATED).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/ComplexOperations/ComplexOperations.iml" filepath="$PROJECT_DIR$/Section 7/ComplexOperations/ComplexOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section8/Composition/Composition.iml" filepath="$PROJECT_DIR$/Section8/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/CylinderAndCircle/CylinderAndCircle.iml" filepath="$PROJECT_DIR$/Section 7/CylinderAndCircle/CylinderAndCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/EnhancedSwitchExpression/EnhancedSwitchExpression.iml" filepath="$PROJECT_DIR$/Section 6/EnhancedSwitchExpression/EnhancedSwitchExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 5/EqualityPrinter/EqualityPrinter.iml" filepath="$PROJECT_DIR$/Section 5/EqualityPrinter/EqualityPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/EvenDigitSum/EvenDigitSum.iml" filepath="$PROJECT_DIR$/Section 6/EvenDigitSum/EvenDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/FactorPrinter/FactorPrinter.iml" filepath="$PROJECT_DIR$/Section 6/FactorPrinter/FactorPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Section 7/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/Section 7/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/InputNameAndAge/InputNameAndAge.iml" filepath="$PROJECT_DIR$/Section 6/InputNameAndAge/InputNameAndAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/InputThenPrintSumAndAverage/InputThenPrintSumAndAverage.iml" filepath="$PROJECT_DIR$/Section 6/InputThenPrintSumAndAverage/InputThenPrintSumAndAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/MinAndMaxChallenge/MinAndMaxChallenge.iml" filepath="$PROJECT_DIR$/Section 6/MinAndMaxChallenge/MinAndMaxChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 5/MinutesToYearsAndDaysCalculator/MinutesToYearsAndDaysCalculator.iml" filepath="$PROJECT_DIR$/Section 5/MinutesToYearsAndDaysCalculator/MinutesToYearsAndDaysCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/NumberInWord/NumberInWord.iml" filepath="$PROJECT_DIR$/Section 6/NumberInWord/NumberInWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/NumberOfDaysInMonth/NumberOfDaysInMonth.iml" filepath="$PROJECT_DIR$/Section 6/NumberOfDaysInMonth/NumberOfDaysInMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/NumberPalindrome/NumberPalindrome.iml" filepath="$PROJECT_DIR$/Section 6/NumberPalindrome/NumberPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/PaintJob/PaintJob.iml" filepath="$PROJECT_DIR$/Section 6/PaintJob/PaintJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/Person/Person.iml" filepath="$PROJECT_DIR$/Section 7/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section8/PersonalComputer/PersonalComputer.iml" filepath="$PROJECT_DIR$/Section8/PersonalComputer/PersonalComputer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/Point/Point.iml" filepath="$PROJECT_DIR$/Section 7/Point/Point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/PoolArea/PoolArea.iml" filepath="$PROJECT_DIR$/Section 7/PoolArea/PoolArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/ReadingUserInputChallenge/ReadingUserInputChallenge.iml" filepath="$PROJECT_DIR$/Section 6/ReadingUserInputChallenge/ReadingUserInputChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/RecordProject/RecordProject.iml" filepath="$PROJECT_DIR$/Section 7/RecordProject/RecordProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 5/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/Section 5/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/SimpleCalculator/SimpleCalculator.iml" filepath="$PROJECT_DIR$/Section 7/SimpleCalculator/SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/StringOptions/StringOptions.iml" filepath="$PROJECT_DIR$/Section 7/StringOptions/StringOptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/Sum3And5Challenge/Sum3And5Challenge.iml" filepath="$PROJECT_DIR$/Section 6/Sum3And5Challenge/Sum3And5Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/SumOdd/SumOdd.iml" filepath="$PROJECT_DIR$/Section 6/SumOdd/SumOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/TextBlocks/TextBlocks.iml" filepath="$PROJECT_DIR$/Section 7/TextBlocks/TextBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/TheObjectClass/TheObjectClass.iml" filepath="$PROJECT_DIR$/Section 7/TheObjectClass/TheObjectClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/TraditionalSwitchChallenge/TraditionalSwitchChallenge.iml" filepath="$PROJECT_DIR$/Section 6/TraditionalSwitchChallenge/TraditionalSwitchChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Udemy-Java-course.iml" filepath="$PROJECT_DIR$/.idea/Udemy-Java-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 7/WallArea/WallArea.iml" filepath="$PROJECT_DIR$/Section 7/WallArea/WallArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6/WhileLoopChallnege/WhileLoopChallnege.iml" filepath="$PROJECT_DIR$/Section 6/WhileLoopChallnege/WhileLoopChallnege.iml" />
+    </modules>
+  </component>
+</project>
